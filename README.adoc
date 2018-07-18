@@ -1,0 +1,7 @@
+= Behavior-driven development module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Módulo de test de integración del proyecto {linkLabInsurance}[lab-insurance].
